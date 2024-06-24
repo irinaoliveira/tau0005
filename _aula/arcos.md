@@ -841,6 +841,7 @@ trompa: um arco posicionado sobre o ângulo reentrante. Trata-se de pequenos arc
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Expoza Travel, 2018]: https://youtu.be/PWK0DFcPE7k?t=137
+[Notas de aula 1.txt](https://github.com/irinaoliveira/tau0005/files/7124230/Notas.de.aula.1.txt)
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Etchmiadzin-Vagharschapat-calotte.webm" data-background-video-muted="true"}
 
